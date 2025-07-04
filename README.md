@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on my Masters in AI Engineering . . .<br>Currently learning Ethics of Artificial Intelligence . . .<br>I'm looking to collaborate on projects related to Artificial Intelligence and Machine Learning . . .<br>Currently looking for help with landing an AI based job . . .<br>Reach me on my [LinkedIn Profile](https://www.linkedin.com/in/punnoose-k-thomas)<br>
+Currently working on my Masters in AI Engineering . . .<br>I'm looking to collaborate on projects related to Artificial Intelligence and Machine Learning . . .<br>Currently looking for help with landing an AI based job . . .<br>Reach me on my [LinkedIn Profile](https://www.linkedin.com/in/punnoose-k-thomas)<br>
 
 
 ## 🌐 Socials:
