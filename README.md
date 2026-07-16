@@ -43,12 +43,12 @@ I'm especially interested in **agentic AI**, **retrieval-grounded workflows**, a
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=punnoose-1620&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=punnoose-1620&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=punnoose-1620&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=punnoose-1620&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=punnoose-1620&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=punnoose-1620&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=punnoose-1620&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+![](https://trophy.ryglcloud.net/?username=punnoose-1620&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=punnoose-1620&icon=0&color=2)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=punnoose-1620&label=Profile%20views&color=0e75b6&style=flat)
